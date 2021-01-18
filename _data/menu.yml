@@ -13,15 +13,21 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /casova-osa/
-    name: Časová osa kauzy
-    match: casova-osa
-  - link: /nase-stanovisko/
-    name: Naše stanovisko
-    match: nase-stanovisko
-  - link: /kalkulacka/
-    name: Kalkulačka
-    match: kalkulacka
+  - link: /jadro-v-cr-a-ve-svete/
+    name: Jádro v ČR a ve světě
+    match: jadro-v-cr-a-ve-svete
+  - link: /jaderna-energie-v-kostce/
+    name: JADERNÁ ENERGIE V KOSTCE
+    match: jaderna-energie-v-kostce
+  - link: /vize-pro-21-stoleti/
+    name: Vize pro 21. století
+    match: vize-pro-21-stoleti
+  - link: /dukovany-2/
+    name: DUKOVANY II
+    match: dukovany-2
+  - link: /dukovany-2-krok-za-krokem/
+    name: DUKOVANY II - krok za krokem
+    match: dukovany-2-krok-za-krokem
   - link: /kontakt/
     name: Kontakt
     match: kontakt
