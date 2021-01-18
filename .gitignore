@@ -6,3 +6,4 @@ _site
 Gemfile.lock
 vendor
 assets/.DS_Store
+.DS_Store
