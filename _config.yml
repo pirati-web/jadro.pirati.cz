@@ -73,10 +73,10 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/pardubicky-kraj-f85/
+  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/pardubicky.pirati.cz/
+  url: https://github.com/pirati-web/jadro.pirati.cz/
   branch: master
 
 matomo:
