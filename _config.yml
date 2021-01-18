@@ -28,10 +28,10 @@ organization:
     530 02 Pardubice I
   residenceImg: pardupice/6.jpg
   mapLink: https://goo.gl/maps/nn9n5ZXHtGujt7hQA
-  redmineLink: https://redmine.pirati.cz/projects/pardubicky-kraj
+  redmineLink: https://redmine.pirati.cz/projects/
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-  donateLink: https://dary.pirati.cz/podpor-kraj/pardubicky/
+  donateLink: https://dary.pirati.cz/
 
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:

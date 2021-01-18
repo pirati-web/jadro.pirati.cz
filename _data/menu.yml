@@ -13,9 +13,15 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /lide/
-    name: Lidé
-    match: lide
+  - link: /casova-osa/
+    name: Časová osa kauzy
+    match: casova-osa
+  - link: /nase-stanovisko/
+    name: Naše stanovisko
+    match: nase-stanovisko
+  - link: /kalkulacka/
+    name: Kalkulačka
+    match: kalkulacka
   - link: /kontakt/
     name: Kontakt
     match: kontakt
