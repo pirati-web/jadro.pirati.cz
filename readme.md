@@ -1,4 +1,4 @@
-# pardubicky.pirati.cz
+# jadro.pirati.cz
 
 ## Obsah
 
