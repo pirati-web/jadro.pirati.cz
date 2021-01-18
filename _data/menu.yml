@@ -13,24 +13,18 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /jadro-v-cr-a-ve-svete/
-    name: Jádro v ČR a ve světě
-    match: jadro-v-cr-a-ve-svete
-  - link: /jaderna-energie-v-kostce/
-    name: JADERNÁ ENERGIE V KOSTCE
-    match: jaderna-energie-v-kostce
-  - link: /vize-pro-21-stoleti/
-    name: Vize pro 21. století
-    match: vize-pro-21-stoleti
-  - link: /dukovany-2/
-    name: DUKOVANY II
-    match: dukovany-2
-  - link: /dukovany-2-krok-za-krokem/
-    name: DUKOVANY II - krok za krokem
-    match: dukovany-2-krok-za-krokem
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
+  - link: /jaderna-energie/
+    name: Jaderná energie
+    match: jaderna-energie
+  - link: /nase-vize/
+    name: Naše vize
+    match: nase-vize
+  - link: /projekt-dukovany-ii/
+    name: Projekt Dukovany II
+    match: projekt-dukovany-ii
+  - link: /casova-osa/
+    name: Časová osa
+    match: casova-osa
 
 bottom:
   - class: small-12 medium-4
