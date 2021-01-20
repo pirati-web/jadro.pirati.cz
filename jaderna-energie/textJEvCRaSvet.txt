@@ -1,0 +1,26 @@
+Jaderná energie ve světě
+Jaderná energie tvoří významný nízkoemisní zdroj elektrické energie v mnoha zemích světa. Některé země využívají štěpení k výrobě elektrické energie a tepla již od počátku dostupnosti technologie, jiné se přidali později a mnoho zemí i v dnešní době vážně usiluje o výstavbu prvních jaderných elektráren v zemi. Volba energetického mixu a otázka spojená se zapojením jaderné energie jako zdroje závisí geografické a ekonomické situaci každé země. 
+V době transformace energetické základny z emisních na bezemisní zdroje plánují některé státy významný nárůst instalované kapacity právě v jaderných zdrojích. Její hlavní výhody: nízké emise, stabilní dodávky, vysoké instalované výkony na jednotku plochy umožňují nahradit emisní zdroje. V celosvětovém energetickém a elektrickém mixu stále velkou část produkce tvoří právě emisní zdroje (Viz graf níže). 
+
+XXXXX sem přijde graf XXXXX
+
+V současné době je v provozu asi 440 jaderných reaktorů ve 30 zemích světa, Převážná část reaktorů se nachází v Evropě a v Severní americe.  Přesné počty reaktorů a instalovaného výkonu naleznete zde (https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx)
+
+XXXXX sem přijde graf XXXXX
+
+V současné době probíhá výstavba nebo je v přípravě asi 100 nových jaderných bloků s instalovaným výkonem přibližně 110 000 MWe a více jak 300 nových jaderných zdrojů je plánováno. Většina nových jaderných zdrojů bude v asijských zemích, které se  potýkají s výrazným nárůstem spotřeby elektrické energie díky svému prudkému ekonomickému vývoji. Seznam reaktorů ve výstavbě naleznete zde(https://www.world-nuclear.org/information-library/current-and-future-generation/plans-for-new-reactors-worldwide.aspx#ECSArticleLink1).
+Téměř všechny nové jaderné instalace jsou plánovány s reaktory o vysokém výkonu (více jak 1100 MWe). Na začátku historie jaderných elektráren se stavěly reaktory o  nízkém výkonu, díky technologickému rozvoji však bylo možné stavět větší jednotky které měli nižší náklady na instalovanou MW než menší reaktory.
+
+
+Česká republika  
+Česká republika patří z pohledu jádra mezi velmi vyspělé státy. Disponuje velkou skupinou odborníků, kvalitním jaderným vzdělávacím systémem a rozsáhlou průmyslovou základnou (která umí navrhovat a  vyrábět komponenty pro současné jaderné technologie). Navíc provozuje 3 výzkumné reaktory a 6 jaderných reaktorů energetických. 
+
+Jaderná energetika a průmysl byl v dobách československa na špičkové úrovni. Prvním jaderným reaktorem vyjma výzkumných byl blok A1 na elektrárně v Jaslovských bohunicích, připojený v roce 1972. Následovaly další 4 reaktory připojené 1980, 1985 tamtéž. V jaderné elektrárně Dukovany byly připojeny celkem 4  reaktory mezi roky 1985 -1987. Po sametové revoluci byly zprovozněny ještě dva bloky v JE Mochovce 1998 a v JE Temelín 2002, ktere byly rozestavěny v době československa. 
+
+Plány na další energetické jaderné reaktory nebyly uskutečněny. S nejaktuálnějších je to dostavba JE Temelín mezi lety 2009 - 2014. Dostavba nakonec byla opuštěna z ekonomických důvodů, počítá se ale provedením později. 
+
+V roce 2019 se rozběhla příprava výstavby v JE Dukovany. Nové bloky v lokalitě by měly nahradit dosluhující reaktory, které byly spuštěny mezi roky 1985 -1987. Ekonomická rentabilita provozu současných bloků po roce 2036 není jistá a je veliká šance, že z ekonomických důvodů budou bloky odstaveny (kvůli příliš drahé údržbě). 
+
+Jaderná energetika se podílí přibližně z 1/3 na dodávkách elektrické energie a je tudíž největším nízkoemisním zdrojem v českém energetickém mixu. Jaderná elektrárna Dukovany má 4 jaderné reaktory VVER 440 o výkonu 510 MWe každý. Dva jaderné bloky VVER 1000, každý o výkonu 1086 MWe jsou v druhé české jaderné elektrárně Temelín. 
+
+Všech šest jaderných reaktorů jsou ruzského návrhu. Jedná  se o tlakovodní reaktory. 
