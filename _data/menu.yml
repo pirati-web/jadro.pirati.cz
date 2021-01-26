@@ -13,9 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /v-cr-ve-svete/
+  - link: /v-cr-a-ve-svete/
     name: V ČR a ve světě
-    match: v-cr-ve-svete
+    match: v-cr-a-ve-svete
   - link: /historie/
     name: Historie v kostce
     match: historie
