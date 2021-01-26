@@ -8,7 +8,6 @@ image:        articles/2020/ivan-bartos-pult.jpg
 author:       
 ---
 
-
 Praha, 19. listopadu 2020 - Ve Sněmovně dnes zazněla jasná slova demokratické opozice, která se vymezila proti absenci řádné poslanecké kontroly rozvoje jaderné energetiky v Česku. „Předsedové demokratických opozičních stran považují za nepřijatelné, aby Poslanecká sněmovna naslepo a ve spěchu souhlasila s nízkouhlíkovým zákonem, který dláždí cestu stavbě jaderné elektrárny Dukovany II bez řádného projednání na bezpečnostním výboru,” shodli se Ivan Bartoš /Piráti/, Petr Fiala /ODS/, Marian Jurečka /KDU-ČSL/ a Markéta Pekarová-Adamová /TOP09/ a Vít Rakušan /STAN/.
 
 Plánované rozšíření jaderné elektrárny Dukovany, pokud se bude realizovat, bude největší veřejnou investicí v dějinách ČR. Vítěz případného výběrového řízení bude České republice partnerem na desítky let, a proto musí poslanci být detailně seznámeni se všemi aspekty zákona i postupem vlády. 
