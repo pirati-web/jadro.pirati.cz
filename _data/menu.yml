@@ -1,13 +1,13 @@
 top:
-  - link: "pirati.cz"
-    url:  "https://www.pirati.cz"
-    icon: "ico--home"
-  - link: "piratskyobchod.cz"
-    url:  "https://piratskyobchod.cz"
-    icon: "ico--cart"
-  - link: "Pirátské listy"
-    url:  "http://www.piratskelisty.cz"
-    icon: "ico--newspaper"
+  #- link: "pirati.cz"
+  #  url:  "https://www.pirati.cz"
+  #  icon: "ico--home"
+  #- link: "piratskyobchod.cz"
+  #  url:  "https://piratskyobchod.cz"
+  #  icon: "ico--cart"
+  #- link: "Pirátské listy"
+  #  url:  "http://www.piratskelisty.cz"
+  #  icon: "ico--newspaper"
 
 main:
   - link: /aktuality/
