@@ -23,7 +23,7 @@ main:
     name: Naše vize
     match: nase-vize
   - link: /projekt-dukovany-ii/
-    name: Projekt Dukovany II
+    name: Dukovany II
     match: projekt-dukovany-ii
   - link: /casova-osa/
     name: Časová osa

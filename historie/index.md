@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Historie"
+title:        "Historie v kostce"
 image:        articles/2020/ivan-bartos-pult.jpg
 ---
 
