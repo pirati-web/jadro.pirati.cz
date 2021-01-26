@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Jaderná energie v ČR a ve světě"
-image:        articles/2020/ivan-bartos-pult.jpg
+image:        miscellaneous/jadro-1.jpg
 ---
 
 # Jaderná energie ve světě
@@ -20,7 +20,6 @@ V celosvětovém energetickém a elektrickém mixu stále velký podíl produkce
 
 zdroj https://ourworldindata.org/electricity-mix
 
-  
 
 V současné době je v provozu asi 440 jaderných reaktorů ve 30 zemích světa, Převážná část reaktorů se nachází v Evropě a v Severní Americe. Přesné počty reaktorů a instalovaného výkonu naleznete zde (https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx)
 
