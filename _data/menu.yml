@@ -13,9 +13,12 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /jaderna-energie/
-    name: Jaderná energie
-    match: jaderna-energie
+  - link: /jaderna-energie-ve-svete/
+    name: Jaderná energie ve světě
+    match: jaderna-energie-ve-svete
+  - link: /jaderna-energie-v-kostce/
+    name: Jaderná energie v kostce
+    match: jaderna-energie-v-kostce  
   - link: /nase-vize/
     name: Naše vize
     match: nase-vize
