@@ -438,14 +438,8 @@ Plánované rozšíření jaderné elektrárny Dukovany, pokud se bude realizova
 
 „Je to bezpečnostně-strategický postoj, který si zasluhuje důkladnou diskuzi a politickou shodu nad rámec jednoho volebního období. Není jediný rozumný důvod, proč bychom se schválením zákona měli spěchat,” uvedl předseda STAN Vít Rakušan.
 
-  
-  
-  
-
 [https://www.pirati.cz/tiskove-zpravy/odlozeni-jaderneho-tendru-zpusobila-ignorace-bezecnosti-vladou.html](https://www.pirati.cz/tiskove-zpravy/odlozeni-jaderneho-tendru-zpusobila-ignorace-bezecnosti-vladou.html) KOMENTÁŘ
 
-  
-  
 
 ### Experti & bezp. komunita
 
