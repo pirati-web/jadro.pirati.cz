@@ -13,9 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /v-cr-a-ve-svete/
+  - link: /jaderna-energie/
     name: V ČR a ve světě
-    match: v-cr-a-ve-svete
+    match: jaderna-energie
   - link: /historie/
     name: Historie v kostce
     match: historie
