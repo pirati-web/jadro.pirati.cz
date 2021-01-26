@@ -19,9 +19,9 @@ main:
   - link: /jaderna-energie-v-kostce/
     name: Jaderná energie v kostce
     match: jaderna-energie-v-kostce  
-  - link: /nase-vize/
-    name: Naše vize
-    match: nase-vize
+  - link: /vize-pro-21-stoleti/
+    name: VIZE PRO 21. STOLETÍ
+    match: vize-pro-21-stoleti
   - link: /projekt-dukovany-ii/
     name: Projekt Dukovany II
     match: projekt-dukovany-ii
