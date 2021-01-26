@@ -13,15 +13,15 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /jaderna-energie-ve-svete/
-    name: Jaderná energie ve světě
-    match: jaderna-energie-ve-svete
-  - link: /jaderna-energie-v-kostce/
-    name: Jaderná energie v kostce
-    match: jaderna-energie-v-kostce  
-  - link: /vize-pro-21-stoleti/
+  - link: /ve-svete/
+    name: Ve světě
+    match: ve-svete
+  - link: /v-kostce/
+    name: V kostce
+    match: v-kostce  
+  - link: /nase-vize/
     name: VIZE PRO 21. STOLETÍ
-    match: vize-pro-21-stoleti
+    match: nase-vize
   - link: /projekt-dukovany-ii/
     name: Projekt Dukovany II
     match: projekt-dukovany-ii
