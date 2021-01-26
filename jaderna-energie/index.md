@@ -46,3 +46,5 @@ Jaderná energetika se podílí přibližně z jedné třetiny na dodávkách el
 Ve všech případech se jedná o tlakovodní reaktory využívající ruskou technologii, která během provozu prošla výraznou modernizací. Byl modernizován systém kontroly a řízení, vyměněna turbína, doplněny technologie zvládání mimořádných událostí (např. doplněny záložní zdroje energie) a mnoho dalšího.
 
 ![](https://lh3.googleusercontent.com/aPgqY3fLGkO8ZMo-V9YJQvAIjKB2YKh0mZPr9hdQp0LFyiO8PypcUED5puTN9iQF99g9ZeHz6pO7iwGaGDAXsAfDRVMpdgZkNgP8Yl3RjN-1k_JoPU6ztJxRqKFDIDh8kEkQvljE)
+
+zdroj https://www.eru.cz/documents/10540/5381883/Rocni_zprava_provoz_ES_2019.pdf/debe8a88-e780-4c44-8336-a0b7bbd189bc
