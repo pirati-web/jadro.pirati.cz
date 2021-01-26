@@ -1,6 +1,6 @@
 <section>
   <h1 class="head-alt-md md:head-alt-lg pb-4 lg:pb-8">Aktuální témata</h1>
-  {% assign posts = site.posts | slice:0,3 %}
+  {% assign posts = site.posts limit:3 | slice:0,3 %}
   {% include articles/list-responsive.html posts=posts %}
 
   <nav class="text-center">
