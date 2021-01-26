@@ -1,0 +1,42 @@
+<nav class="navbar __js-root">
+  <ui-app inline-template>
+    <ui-navbar inline-template>
+      <div>
+        <div class="container container--wide navbar__content" :class="{'navbar__content--initialized': true}">
+          <div class="navbar__brand my-4 flex items-center lg:block lg:pr-8 lg:my-0">
+            <a href="{{ '/' | absolute_url }}">
+              <img src="{{ site.styleguide_base_url }}/images/logo-round-white.svg" class="w-8 lg:w-full lg:border-r lg:border-grey-300 lg:pr-8" />
+            </a>
+            <span class="lg:hidden pl-4 font-bold text-xl">Pirátská strana</span>
+          </div>
+          <div class="navbar__menutoggle my-4 flex justify-end lg:hidden">
+            <a href="#" @click="show = !show" class="no-underline hover:no-underline">
+              <i class="ico--menu text-3xl"></i>
+            </a>
+          </div>
+          <div v-if="show || isLgScreenSize" class="navbar__main navbar__section navbar__section--expandable container-padding--zero lg:container-padding--auto">
+            {% if site.data.menu.main %}
+              <ul class="navbar-menu text-white">
+                {% for item in site.data.menu.main %}
+                  <li class="navbar-menu__item">
+                    {% if item.submenu %}
+                      <ui-navbar-subitem label="{{ item.name }}">
+                        <ul class="navbar-menu__submenu">
+                          {% for subitem in item.submenu %}
+                            <li><a href="{{ subitem.link }}" class="navbar-menu__link">{{ subitem.name }}</a></li>
+                          {% endfor %}
+                        </ul>
+                      </ui-navbar-subtitem>
+                    {% else %}
+                      <a href="{{ item.link | relative_url }}" class="navbar-menu__link">{{ item.name }}</a>
+                    {% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </ui-navbar>
+  </ui-app>
+</nav>

@@ -46,35 +46,6 @@ contactSummaryItems:
   - type: organizationDataBox
   - type: piratiRootWebsite
 
-calendar:
-  # For nice look of the calendar, make sure you get Google Calendar API key
-  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
-  # For deployment, contact website administrator to set you env variable.
-  title: Kalendář
-  id: 7r673rlh255oforhv3oeb2l0g0@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
-
-
-facebook:
-  loadSDK: true
-  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana
-  profilePageName: Česká pirátská strana
-  appId: 1526197851008996
-
-twitter:
-  loadSDK: true
-  profile: PiratskaStrana
-
-instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
-
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
-
-forum:
-  page: https://forum.pirati.cz/
-
 github:
   url: https://github.com/pirati-web/jadro.pirati.cz/
   branch: master
