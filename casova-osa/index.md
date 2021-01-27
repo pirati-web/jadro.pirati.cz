@@ -177,7 +177,9 @@ image:        miscellaneous/jadro-2.jpg
 <p>Ministerstvo průmyslu a obchodu a investor projektu Dukovany II, tedy společnosti ČEZ, a. s. a Elektrárna Dukovany II, a. s., podepsali smlouvy k novému jadernému zdroji. V dané věci stát ponese záruky za politická a legislativní rizika, která by mohla projekt znemožnit. Investor pak má vybrat hlavního dodavatele nového jaderného zdroje v Dukovanech a dojednat s ním smlouvu do konce roku 2024. Také má zajistit potřebná povolení a vše směřovat k tomu, aby byl nový blok elektrárny zprovozněn v roce 2036.</p>
 <p><a href="https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/stat-a-investor-podepsali-smlouvy-k-novemu-jadernemu-zdroji-v-dukovanech--zacina-dalsi-faze-pripravy--255953/" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Čtěte více</a></p>
 </div>
+<div class="timeline-content__media">
 
+</div>
 </div>
 </div>
 
@@ -192,7 +194,9 @@ image:        miscellaneous/jadro-2.jpg
 <p>Státní podpora nového dukovanského reaktoru musí být schválena Evropskou komisí. V červenci byly do Bruselu zaslány základní dokumenty, v následných jednání Česká republika vysvětlovala model financování projektu. </p>
 <p><a href="https://allforpower.cz/jaderna-energetika/jaroslav-mil-dodavatel-musi-mit-prirozeny-zajem-jaderny-reaktor-dokoncit-280" class="button" data-open="33588" aria-controls="33588" aria-haspopup="true" tabindex="0">Rozhovor</a> s Jaroslavem Mílem</p>
 </div>
+<div class="timeline-content__media">
 
+</div>
 </div>
 </div>          
 
@@ -207,7 +211,8 @@ image:        miscellaneous/jadro-2.jpg
 <p>Návrh zadávací dokumentace na tendr ke stavbě nových bloků Jaderné elektrárny Dukovany podle tajných služeb a ministerstev vnitra a zahraničí dostatečně nezohledňuje bezpečnostní zájmy státu, zástupci všech zmíněných institucí doporučili vůbec neoslovovat rizikové uchazeče.</p>
 <p><a href="https://www.irozhlas.cz/zpravy-domov/tendr-rusko-cina-dukovany-tajne-sluzby-vnitro-varovani-dostavba_2011190600_kar" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">iRozhlas</a></p>
 </div>
-
+<div class="timeline-content__media">
+</div>
 </div>
 </div>
 
@@ -222,7 +227,8 @@ image:        miscellaneous/jadro-2.jpg
 <p>Zákon je potřeba pro finanční model celého projektu. Na jeho základě může stát vykupovat elektřinu vyrobenou v jaderném reaktoru. K zákonu bylo podáno několik pozměňovacích návrhů. Dva návrhy poslance Jana Lipavského by neumožnily účast Ruska a Číny v tendru, návrh poslance Petra Třešňáka by pak umožnil zákon aplikovat i na další jaderné projekty, nejen specificky na Dukovany II. </p>
 <p>Cestu zákona lze sledovat <a href="https://www.psp.cz/sqw/historie.sqw?o=8&T=966" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">zde</a></p>
 </div>
-
+<div class="timeline-content__media">
+</div>
 </div>
 </div>
 
@@ -237,7 +243,8 @@ image:        miscellaneous/jadro-2.jpg
 <p>Z výroční zprávy Bezpečnostní informační služby za rok 2019 vyplynulo, že tuzemské strategické projekty v oblasti energetiky či komunikačních technologií jsou pro bezpečnost země velkým rizikem, a proto je nežádoucí otevřít k nim cestu nedemokratickým režimům.</p>
 <p><a href="https://zpravy.aktualne.cz/domaci/bis-vyrocni-zprava/r~80e1fcf6228b11eb9d470cc47ab5f122/" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Aktuálně</a></p>
 </div>
-
+<div class="timeline-content__media">
+</div>
 </div>
 </div>
 
@@ -253,7 +260,8 @@ image:        miscellaneous/jadro-2.jpg
 <p>Demokratická opozice se jasně vymezila proti absenci řádné poslanecké kontroly rozvoje jaderné energetiky v Česku. „Předsedové demokratických opozičních stran považují za nepřijatelné, aby Poslanecká sněmovna naslepo a ve spěchu souhlasila s nízkouhlíkovým zákonem, který dláždí cestu stavbě jaderné elektrárny Dukovany II bez řádného projednání na bezpečnostním výboru,” shodli se Ivan Bartoš /Piráti/, Petr Fiala /ODS/, Marian Jurečka /KDU-ČSL/ a Markéta Pekarová-Adamová /TOP09/ a Vít Rakušan /STAN/.</p>
 <p><a href="https://www.piratskelisty.cz/clanek-3603-projekt-dukovany-ii-nesmi-ohrozit-bezpecnost-cr-predsedove-demokratickych-opozicnich-stran-zadaji-kontrolu-nad-nizkouhlikovym-zakonem" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Pirátské listy</a></p>
 </div>
-
+<div class="timeline-content__media">
+</div>
 </div>
 </div>
 
@@ -275,13 +283,29 @@ image:        miscellaneous/jadro-2.jpg
 </ul>
 <p><a href="https://ct24.ceskatelevize.cz/ekonomika/3238326-tendr-na-dukovany-do-konce-roku-nebude-mame-ctyri-varianty-uvedl-havlicek" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČT24</a></p>
 </div>
-
+<div class="timeline-content__media">
 </div>
 </div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content timeline-content--right">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">27. 1. 2021</p>
+<h2 class="timeline-content__title">Schůzka tripartity</h2>
+<p>Stát by mohl stavbu nového jaderného zdroje v Dukovanech financovat zcela sám. Je to varianta pro případ, že by zapojení energetické firmy ČEZ do financování bylo příliš drahé. Po jednání tripartity to uvedl ministr průmyslu Karel Havlíček (za ANO). Podle něj by to mohlo snížit výkupní ceny energie.</p>
+<p>Zástupci zaměstnavatelských svazů a odborů po jednání tripartity uvedli, že žádají vládu, aby pokračovala v přípravách tendru. Zároveň nechtějí redukovat počet uchazečů. Podle nich by to výstavbu prodražilo a následně i zvýšilo ceny energie.</p>
+<p><a href="https://www.ceskenoviny.cz/zpravy/tripartita-chce-rychly-tendr-k-dukovanum-a-vsechny-uchazece/1987913" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a></p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
 
 
-
- 
  
 
 </div>
