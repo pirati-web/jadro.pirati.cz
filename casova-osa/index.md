@@ -1,25 +1,8 @@
 ---
-layout:       post
+layout:       page
 title:        "Časová osa"
 image:        miscellaneous/jadro-2.jpg
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <style>
@@ -181,7 +164,7 @@ image:        miscellaneous/jadro-2.jpg
 
 </style>
 
-
+Časová osa projektu Dukovany II
 
 <div class="timeline">
 

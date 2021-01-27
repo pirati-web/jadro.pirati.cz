@@ -4,7 +4,6 @@ title:        "Naše vize"
 image:        miscellaneous/jadro-4.jpg
 ---
 
-
 Jaderná energie je součástí dnešního energetického mixu v České republice i mnoha evropských zemích. Svou roli sehrála především v uplynulých dekádách jako nízkouhlíkový zdroj velkých výkonů pracující v základním zatížení, a to v rámci vesměs centralizovaných energetických soustav mnoha rozvinutých zemích.
 
 V současné době mnoho evropských zemí svůj přístup přehodnocuje a od jádra ustupuje. Některé země to pojaly jako politiku zohledňující veškerá negativa jaderné energetiky, pro jiné země se stala jaderná energetika díky stále se navyšujícím bezpečnostním a technologickým nárokům finančně nedostupná.
