@@ -164,8 +164,6 @@ image:        miscellaneous/jadro-2.jpg
 
 </style>
 
-Časová osa projektu Dukovany II
-
 <div class="timeline">
 
 <div class="timeline-item">
