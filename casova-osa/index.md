@@ -4,6 +4,24 @@ title:        "Časová osa"
 image:        miscellaneous/jadro-2.jpg
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <style>
 
 @media print, screen and (min-width: 40em) {
@@ -163,13 +181,9 @@ image:        miscellaneous/jadro-2.jpg
 
 </style>
 
-      <div class="timeline">
 
-          <div class="timeline-item">
-            <div class="timeline-icon">
-              <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-            </div>
 
+<div class="timeline">
 
 <div class="timeline-item">
 <div class="timeline-icon">
