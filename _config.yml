@@ -5,7 +5,7 @@
 # technické nastavení
 #
 
-title: Jádro Piráti
+title: Pirátská jaderná energie
 email: jadro@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -16,17 +16,14 @@ administrator:
   email: jan.suchanek@gmail.com
 
 organization:
-  name: Jádro Piráti
+  name: Pirátská jaderná energie
   shortName: Jádro Piráti
-  contactUid: pavel.stepanek
+  contactUid: jan.lipavsky
   email: jadro@pirati.cz
   phone: +420 
   address: |
-    Pardubické pirátské centrum
-    Budova T-STRING
-    Masarykovo náměstí 1484
-    530 02 Pardubice I
-  residenceImg: pardupice/6.jpg
+
+  residenceImg: 
   mapLink: https://goo.gl/maps/nn9n5ZXHtGujt7hQA
   redmineLink: https://redmine.pirati.cz/projects/
   dataBoxId: b2i4r6j
