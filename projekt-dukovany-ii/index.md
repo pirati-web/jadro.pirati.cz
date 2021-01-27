@@ -10,38 +10,35 @@ Nadále požadujeme, aby se projekt Dukovany II pohyboval v následujících man
 
 ## Ekonomika
 
-1.  Zastropování ceny v zákoně – včetně vyjasnění dopadů do cen pro konečné zákazníky a do státního rozpočtu.  
-2.  Fixní cena projektu  – dodávka musí být za pevnou cenu bez dalších variabilních složek.
-3.  Musí se jednat o dodávku „na klíč“, ve které bude pouze jeden hlavní dodavatel, který bude za projekt plně odpovědný, včetně souvisejících záruk.
-4.  Investorem stát místo ČEZu  – hlavně z důvodu levnější financování. Zcela zásadní je cena peněz, pokud bude stavět stát za své peníze oproti tomu, kolik by stál projekt v případě ČEZ. Obchodní korporace jako ČEZ musí zaručit výnos projektu vůči svým akcionářům. ČEZ je navíc ve výhodné pozici – projekt může kdykoli přenechat k dokončení státu.  
+**1.  Zastropování ceny v zákoně** – včetně vyjasnění dopadů do cen pro konečné zákazníky a do státního rozpočtu.  
+**2.  Fixní cena projektu**  – dodávka musí být za pevnou cenu bez dalších variabilních složek.
+**3.  Musí se jednat o dodávku „na klíč“**, ve které bude pouze jeden hlavní dodavatel, který bude za projekt plně odpovědný, včetně souvisejících záruk.
+**4.  Investorem stát místo ČEZu**  – hlavně z důvodu levnější financování. Zcela zásadní je cena peněz, pokud bude stavět stát za své peníze oproti tomu, kolik by stál projekt v případě ČEZ. Obchodní korporace jako ČEZ musí zaručit výnos projektu vůči svým akcionářům. ČEZ je navíc ve výhodné pozici – projekt může kdykoli přenechat k dokončení státu.  
 
 Tato varianta dokonce vycházela státu a ČEZu jako druhá preferovaná varianta v hodnocení jednotlivých dodavatelských modelů.
 
 Pokud v tuto chvíli není vláda schopná přesně sdělit cenu peněz, jeví se tato varianta jako mnohem vhodnější
 
 ## Bezpečnost a výběr partnera strategického pro ČR
-
-5.  Požadujeme vyloučení ruských a čínských dodavatelů z tendru. Ačkoli jsme diskutovali s odborníky výhody a případná rizika účasti ruských firem pouze v konsorciích, stále trvá naše pozice, že projekt musí odrážet dlouhodobé strategické, bezpečnostní a zahraničně-politické zájmy České republiky.
-    
-6.  Neomezovat výkon bloku ve VŘ výkon na 1200 MWe  a prodloužit termín předložení nabídek ze 7 na 18 měsíců – to značně limituje účast některých uchazečů, kteří mají mohou nabídnout bloky vyšších výkonů, např. 1400 MWe. Projekt svým nastavením vylučuje současné standardizované projektu původem z Francie a Jižní Koreji.
+**5.  Požadujeme vyloučení ruských a čínských dodavatelů z tendru.** Ačkoli jsme diskutovali s odborníky výhody a případná rizika účasti ruských firem pouze v konsorciích, stále trvá naše pozice, že projekt musí odrážet dlouhodobé strategické, bezpečnostní a zahraničně-politické zájmy České republiky.    
+**6.  Neomezovat výkon bloku ve VŘ výkon na 1200 MWe  a prodloužit termín předložení nabídek ze 7 na 18 měsíců** – to značně limituje účast některých uchazečů, kteří mají mohou nabídnout bloky vyšších výkonů, např. 1400 MWe. Projekt svým nastavením vylučuje současné standardizované projektu původem z Francie a Jižní Koreji.
 
 ## Věda a výzkum
-
-7.  Chceme více podpořit vědu a výzkum – ČR má mnohem větší potenciál v jaderné energetice a vědě včetně vývoje vlastních modulárních reaktorů, chceme proto navýšit rozpočet Technologické agentury ČR a podpořit další vědecká pracoviště. Chceme motivovat a podpořit nadějné vědce a projekt v tomto odvětví.
+**7.  Chceme více podpořit vědu a výzkum** – ČR má mnohem větší potenciál v jaderné energetice a vědě včetně vývoje vlastních modulárních reaktorů, chceme proto navýšit rozpočet Technologické agentury ČR a podpořit další vědecká pracoviště. Chceme motivovat a podpořit nadějné vědce a projekt v tomto odvětví.
 
 ## Detailní stanovisko
 
 ### EKONOMIKA
 
-Ad 1) Zastropování limitu maximální realizační ceny
+**Ad 1) Zastropování limitu maximální realizační ceny**
 
 Jedná se o regulatorní nástroj chránící konečné zákazníky (spotřebitele elektrické energie) před nepřiměřeným dopadem podpory nízkouhlíkové výrobny (jaderné elektrárny) do cen elektrické energie. Obdobný nástroj, tj. zastropování maximální výše podpory, byl po nekontrolovatelném solárním boomu v letech 2009 až 2011 zaveden do zákona o podpoře obnovitelných zdrojů energie, ale bohužel až následně, kdy většina solárních elektráren byla již postavena. Pro obnovitelné zdroje uvedené do provozu po roce 2012 platí, že výše výkupní ceny nesmí překročit maximální cenu uvedenou v zákoně, a to bez ohledu na ostatní okolnosti při stanovení výše výkupní ceny. Zavedení cenového stropu v podobě maximální realizační ceny v navrhovaném zákoně je v zájmu ochrany spotřebitelů elektrické energie. Tento nástroj je v legislativě využíván v případě obnovitelných zdrojů energie již několik let.
 
-Ad 2) Fixní cena projektu
+**Ad 2) Fixní cena projektu**
 
 Cena projektů musí být pevná s minimem variabilních složek a přenášením odpovědnosti na investora/stát. Za veškeré průtahy a vícenáklady bude zodpovědný zhotovitel.
 
-Ad 3) Dodávka na klíč “EPC Turn-key”
+**Ad 3) Dodávka na klíč “EPC Turn-key”**
 
 Vláda a ČEZ původně analyzovala několik dodavatelských modelů. Ačkoli byl u projektu Temelín a následně i Dukovanského preferován model čistého EPC s jedním dodavatelem na klíč, byl na květnovém zasedání výboru prezentován zvolený model, tzv. EPC-Flexi. Ten by umožňoval po výběru jednoho velkého dodavatele přesoutěžit dílčí dodávky a subdodávky.
 
@@ -51,7 +48,7 @@ Dodávka tedy musí být na klíč s jedním hlavním dodavatelem, který ponese
 
 Již realizované projekty ukázaly, že pokud není investor zároveň společností s vlastními personálními kapacitami v projektování a inženýringu, je pro koordinaci projektů vždy výhodný přímý vztah mezi investorem a jedním generálním dodavatelem. Ten totiž nese odpovědnost za své subdodavatele.
 
-Ad. 4) Investorem stát místo ČEZu
+**Ad. 4) Investorem stát místo ČEZu**
 
 Tato varianta znamená levnější financování i zrušení put opce pro ČEZ pro případ neúspěšného směrování projektu.
 
@@ -67,7 +64,7 @@ Pokud by však například cena elektřiny na trhu byla o 60 EUR nižší n
 
 ### Bezpečnost a výběr partnera strategického pro ČR
 
-Ad 5) Vyloučení ruských a čínských dodavatelů z tendru
+**Ad 5) Vyloučení ruských a čínských dodavatelů z tendru**
 
 Výstavba nového jaderného zdroje bude znamenat pro Česko mimo jiné i výběr blízkého partnera na dalších 80 let. To je doba trvání výstavby a provozu nového bloku. Při výběru dodavatele proto nelze postupovat pouze ekonomickou optikou, ale je nutné zohlednit celou řadu strategických, bezpečnostních a zahraničně-politických zájmů České republiky.
 
@@ -91,7 +88,7 @@ Provedli jsme si analýzu účasti rizikových uchazečů jako součást konsorc
 
 Pokud by se navíc zúčastnilo konsorcium jako v Bulharsku v roce 2020 (Framatom+Rosatom+GE), tak navíc paradoxně u takového projektu hrozí ještě nižší účast českého průmyslu.
 
-Ad. 6)  Neomezovat ve výběrovém řízení výkon na 1200 MWe a prodloužit termín předložení nabídek ze 7 na 18 měsíců
+**Ad. 6)  Neomezovat ve výběrovém řízení výkon na 1200 MWe a prodloužit termín předložení nabídek ze 7 na 18 měsíců**
 
 Ačkoli dokumentace EIA pro lokalitu umožňuje umístění vyšších výkonů, tak zcela iracionálně se stále hovoří o omezení výkonu na 1200 MWe.
 
@@ -108,4 +105,4 @@ Pokud však bude vláda trvat na výkonovém omezení 1200 MW, pak musí prodlou
 
 ### Věda a výzkum
 
-Ad 7) Chceme víc podpořit vědu a výzkum  – ČR má mnohem větší potenciál v jaderné energetice a vědě včetně vývoje vlastních modulárních reaktorů. Chceme proto navýšit rozpočet Technologické agentury ČR a podpořit další vědecká pracoviště, stejně tak musí být představeno konkrétní dlouhodobé schéma financování jaderného výzkumu. Chceme motivovat a podpořit nadějné vědce a projekt v tomto odvětví a proměnit Českou republiku z montovny na mozkovnu.
+**Ad 7) Chceme víc podpořit vědu a výzkum**  – ČR má mnohem větší potenciál v jaderné energetice a vědě včetně vývoje vlastních modulárních reaktorů. Chceme proto navýšit rozpočet Technologické agentury ČR a podpořit další vědecká pracoviště, stejně tak musí být představeno konkrétní dlouhodobé schéma financování jaderného výzkumu. Chceme motivovat a podpořit nadějné vědce a projekt v tomto odvětví a proměnit Českou republiku z montovny na mozkovnu.
