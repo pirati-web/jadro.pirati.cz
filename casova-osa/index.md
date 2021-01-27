@@ -280,11 +280,13 @@ image:        miscellaneous/jadro-2.jpg
 <div class="timeline-content__desc">
 <p class="timeline-content__date">9. 12. 2020</p>
 <h2 class="timeline-content__title">Stálý výbor pro výstavbu nových jaderných zdrojů v ČR rozhodl, že na jádru musí panovat shoda napříč politickým spektrem, ministr Havlíček navrhl čtyři scénáře</h2>
-<p>Na jednání vládního výboru pro výstavbu nových jaderných zdrojů premiér Andrej Babiš požádal o zpracování „Analýzy jaderných projektů v zahraničí z hledisek úspěšnosti realizace v oblasti HMG a rozpočtů“ a to tak, aby tato Analýza byla podkladem pro jednání předsedů politických stran. To má proběhnout na konci ledna. Ministr průmyslu, obchodu a dopravy Havlíček pak představil čtyři varianty dalšího postupu  tím, že sám se kloní k variantě 3+2. 
-Přizvat do výběrového řízení všechny uchazeče (CGN, EdF, Kepco/KHNP, Rosatom, Westinghouse) s možností vyloučit kteréhokoliv uchazeče v průběhu nebo na konci výběrového řízení při stanovení pořadí.
-Přizvat do výběrového řízení 3 uchazeče (EdF, Kepco/KHNP, Westinghouse).
-Přizvat do výběrového řízení 3 uchazeče (EdF. Kepco/KNHP, Westinghouse) a dalšímuchazečům CGN a Rosatom umožnit účast ve výběrovém řízení jako členové konsorcia, tzv. varianta 3+2. 
-Tato vláda nerozhodne o zahájení výběrového řízení a rozhodnutí ponechá na další vládu po volbách do PSP.</p>
+<p>Na jednání vládního výboru pro výstavbu nových jaderných zdrojů premiér Andrej Babiš požádal o zpracování „Analýzy jaderných projektů v zahraničí z hledisek úspěšnosti realizace v oblasti HMG a rozpočtů“ a to tak, aby tato Analýza byla podkladem pro jednání předsedů politických stran. To má proběhnout na konci ledna. Ministr průmyslu, obchodu a dopravy Havlíček pak představil čtyři varianty dalšího postupu  tím, že sám se kloní k variantě 3+2.</p>
+<ul>
+    <li>Přizvat do výběrového řízení všechny uchazeče (CGN, EdF, Kepco/KHNP, Rosatom, Westinghouse) s možností vyloučit kteréhokoliv uchazeče v průběhu nebo na konci výběrového řízení při stanovení pořadí.</li>
+    <li>Přizvat do výběrového řízení 3 uchazeče (EdF, Kepco/KHNP, Westinghouse).</li>
+    <li>Přizvat do výběrového řízení 3 uchazeče (EdF. Kepco/KNHP, Westinghouse) a dalšímuchazečům CGN a Rosatom umožnit účast ve výběrovém řízení jako členové konsorcia, tzv. varianta 3+2.</li>
+    <li>Tato vláda nerozhodne o zahájení výběrového řízení a rozhodnutí ponechá na další vládu po volbách do PSP.</li>
+</ul>
 <p><a href="https://ct24.ceskatelevize.cz/ekonomika/3238326-tendr-na-dukovany-do-konce-roku-nebude-mame-ctyri-varianty-uvedl-havlicek" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČT24</a></p>
 </div>
 <div class="timeline-content__media">
@@ -292,5 +294,48 @@ Tato vláda nerozhodne o zahájení výběrového řízení a rozhodnut
 </div>
 </div>
 </div>
+
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content timeline-content--right">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">27. 1. 2021</p>
+<h2 class="timeline-content__title">Schůzka tripartity</h2>
+<p>Stát by mohl stavbu nového jaderného zdroje v Dukovanech financovat zcela sám. Je to varianta pro případ, že by zapojení energetické firmy ČEZ do financování bylo příliš drahé. Po jednání tripartity to uvedl ministr průmyslu Karel Havlíček (za ANO). Podle něj by to mohlo snížit výkupní ceny energie.</p>
+<p>Zástupci zaměstnavatelských svazů a odborů po jednání tripartity uvedli, že žádají vládu, aby pokračovala v přípravách tendru. Zároveň nechtějí redukovat počet uchazečů. Podle nich by to výstavbu prodražilo a následně i zvýšilo ceny energie.</p>
+<p><a href="https://www.ceskenoviny.cz/zpravy/tripartita-chce-rychly-tendr-k-dukovanum-a-vsechny-uchazece/1987913" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a></p>
+</div>
+<div class="timeline-content__media">
+<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-2.jpg" alt= ""/> 
+</div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content ">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">27. 1. 2021</p>
+<h2 class="timeline-content__title">Schůzka vlády s představiteli politických stran</h2>
+<p>DOPLNÍME</p>
+</div>
+<div class="timeline-content__media">
+<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-3.jpg" alt= ""/> 
+</div>
+</div>
+</div>
+
+
+
+
+
+
+ 
+ 
 
 </div>
