@@ -214,7 +214,7 @@ image:        miscellaneous/jadro-2.jpg
 <p><a href="https://allforpower.cz/jaderna-energetika/jaroslav-mil-dodavatel-musi-mit-prirozeny-zajem-jaderny-reaktor-dokoncit-280" class="button" data-open="33588" aria-controls="33588" aria-haspopup="true" tabindex="0">Rozhovor</a> s Jaroslavem Mílem</p>
 </div>
 <div class="timeline-content__media">
-<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-1.jpg" alt= ""/> 
+<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-2.jpg" alt= ""/> 
 </div>
 </div>
 </div>          
@@ -231,7 +231,7 @@ image:        miscellaneous/jadro-2.jpg
 <p><a href="https://www.irozhlas.cz/zpravy-domov/tendr-rusko-cina-dukovany-tajne-sluzby-vnitro-varovani-dostavba_2011190600_kar" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">iRozhlas</a></p>
 </div>
 <div class="timeline-content__media">
-<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-1.jpg" alt= ""/> 
+<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-3.jpg" alt= ""/> 
 </div>
 </div>
 </div>
@@ -248,7 +248,7 @@ image:        miscellaneous/jadro-2.jpg
 <p>Cestu zákona lze sledovat <a href="https://www.psp.cz/sqw/historie.sqw?o=8&T=966" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">zde</a></p>
 </div>
 <div class="timeline-content__media">
-<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-1.jpg" alt= ""/> 
+<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-4.jpg" alt= ""/> 
 </div>
 </div>
 </div>
@@ -283,7 +283,7 @@ image:        miscellaneous/jadro-2.jpg
 <p><a href="https://www.piratskelisty.cz/clanek-3603-projekt-dukovany-ii-nesmi-ohrozit-bezpecnost-cr-predsedove-demokratickych-opozicnich-stran-zadaji-kontrolu-nad-nizkouhlikovym-zakonem" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Pirátské listy</a></p>
 </div>
 <div class="timeline-content__media">
-<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-1.jpg" alt= ""/> 
+<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-2.jpg" alt= ""/> 
 </div>
 </div>
 </div>
@@ -305,7 +305,7 @@ Tato vláda nerozhodne o zahájení výběrového řízení a rozhodnut
 <p><a href="https://ct24.ceskatelevize.cz/ekonomika/3238326-tendr-na-dukovany-do-konce-roku-nebude-mame-ctyri-varianty-uvedl-havlicek" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČT24</a></p>
 </div>
 <div class="timeline-content__media">
-<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-1.jpg" alt= ""/> 
+<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-3.jpg" alt= ""/> 
 </div>
 </div>
 </div>
