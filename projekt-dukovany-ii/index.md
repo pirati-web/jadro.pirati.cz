@@ -63,7 +63,7 @@ Pokud totiž stát zajistí financování, ale projekt bude realizovat ČEZ
 
 Pokud by však například cena elektřiny na trhu byla o 60 EUR nižší než cena elektřiny od ČEZ, každá domácnost by doplácela několik set korun ročně navíc ve prospěch ČEZu.
 
-![](https://lh3.googleusercontent.com/-a-RlaZlzGqcW_tMYD3QLl9d4hQsp29o455ONefgTrs5Vv7MqhRYi-U6cdigRLzFZk_Egl1ZyLFkXTgXlVypo_QtVBcwbOWm_3EaOBdk46haFb6xZhcXI-wDaC2fzwe-vvSM5JE-)
+![](/assets/images/miscellaneous/dukovany-tabulka-1.png)
 
 ### Bezpečnost a výběr partnera strategického pro ČR
 
@@ -103,10 +103,8 @@ Obdobou je francouzské EdF (= Electricité de France je “utilitou” tedy pro
 
 Pokud však bude vláda trvat na výkonovém omezení 1200 MW, pak musí prodloužit dobu na podání nabídek v tendru ze současných 7 měsíců minimálně na 18, tak aby dodavatelé nabízející projekty vyšších výkonů měli dostatek čas na přeprojektování a zpracování kvalitních nabídek. Jen tak může být soutěž skutečně spravedlivá.
 
-![Table
 
-Description automatically generated](https://lh6.googleusercontent.com/TjU4eBWDTTFYYOJciiRIvlUSB9MGGkvEPP1yYsOLJX3BWGAM60uEqzBodsjC7EVh0V4DTSb6lEmDMOa5Ary9_CdLrV050s5feQpxDGcRzrJqx-bRgzan7NMVKIw2AanorTNkZ0CV)
-
+![Description automatically generated](/assets/images/miscellaneous/dukovany-tabulka-2.png)
 
 ### Věda a výzkum
 
