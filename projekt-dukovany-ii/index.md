@@ -11,8 +11,11 @@ Nadále požadujeme, aby se projekt Dukovany II pohyboval v následujících man
 ## Ekonomika
 
 **1.  Zastropování ceny v zákoně** – včetně vyjasnění dopadů do cen pro konečné zákazníky a do státního rozpočtu.  
+
 **2.  Fixní cena projektu**  – dodávka musí být za pevnou cenu bez dalších variabilních složek.
+
 **3.  Musí se jednat o dodávku „na klíč“**, ve které bude pouze jeden hlavní dodavatel, který bude za projekt plně odpovědný, včetně souvisejících záruk.
+
 **4.  Investorem stát místo ČEZu**  – hlavně z důvodu levnější financování. Zcela zásadní je cena peněz, pokud bude stavět stát za své peníze oproti tomu, kolik by stál projekt v případě ČEZ. Obchodní korporace jako ČEZ musí zaručit výnos projektu vůči svým akcionářům. ČEZ je navíc ve výhodné pozici – projekt může kdykoli přenechat k dokončení státu.  
 
 Tato varianta dokonce vycházela státu a ČEZu jako druhá preferovaná varianta v hodnocení jednotlivých dodavatelských modelů.
@@ -21,6 +24,7 @@ Pokud v tuto chvíli není vláda schopná přesně sdělit cenu peněz, jeví s
 
 ## Bezpečnost a výběr partnera strategického pro ČR
 **5.  Požadujeme vyloučení ruských a čínských dodavatelů z tendru.** Ačkoli jsme diskutovali s odborníky výhody a případná rizika účasti ruských firem pouze v konsorciích, stále trvá naše pozice, že projekt musí odrážet dlouhodobé strategické, bezpečnostní a zahraničně-politické zájmy České republiky.    
+
 **6.  Neomezovat výkon bloku ve VŘ výkon na 1200 MWe  a prodloužit termín předložení nabídek ze 7 na 18 měsíců** – to značně limituje účast některých uchazečů, kteří mají mohou nabídnout bloky vyšších výkonů, např. 1400 MWe. Projekt svým nastavením vylučuje současné standardizované projektu původem z Francie a Jižní Koreji.
 
 ## Věda a výzkum
