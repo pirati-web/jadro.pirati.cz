@@ -33,7 +33,7 @@ Právě díky výzkumu v oblasti jaderných technologií bylo možné nastartova
 
 V oblasti jaderné energetiky mají české vědecké instituce stále ohromný význam, a kromě vývoje pro současné velké jaderné bloky se ČR zabývá i vývojem vlastního konceptu malého modulárního reaktoru
 
-### Role a podíl jádra v současném a budoucím energetickém mixu
+## Role a podíl jádra v současném a budoucím energetickém mixu
 
 ### Problematika prodlužování stávajících bloků
 
@@ -46,8 +46,6 @@ Po roce 2047 již s jistotou nebude možné počítat s elektřinou z těchto bl
 V rozmezí let 2006 až 2014 byl ze strany ČEZ připravován projekt nového jaderného zdroje (dále NJZ) v lokalitě Temelín (dále jen ETE34). Prostor v Temelínské lokalitě byl již historicky v osmdesátých letech připravován pro výstavbu 4 bloků konstrukce VVER-1000. Nakonec bylo rozhodnuto pro dostavbu pouze dvou. Adaptace další infrastruktury na “dostavbu” bloků 3 a 4 by tak i v dnešní době neměla činit výrazné problémy. Projekt získal EIA i povolení SÚJB k umístění a následně probíhalo výběrové řízení na dodavatele “na klíč” v intencích zákona o zadávání veřejných zakázek. Výběrové řízení však bylo v jeho finální části ze strany zadavatele (ČEZ, a. s.) zrušeno. V tendru se tehdy vybíralo mezi třemi projekty původem z Francie/Německa (Areva s projektem EPR), USA (Westinghouse s projektem AP1000) a ČR/Rusko (konsorcium vedené Škoda JS s projektem MIR.1200 založeném na konceptu VVER). Všechny projekty byly tlakovodní reaktory III. generace.
 
 Ačkoli lokalita v Dukovanech byla také paralelně připravována pro případnou výstavbu dalších bloků, tak pravděpodobně politickým rozhodnutím bylo po zrušeném Temelínském tendru stanoveno odstartovat nový projekt jaderného bloku v lokalitě současné jaderné elektrárny Dukovany.
-
-sem dát link na část 4.
 
 ## Budoucnost - malé modulární reaktory a decentralizace
 
