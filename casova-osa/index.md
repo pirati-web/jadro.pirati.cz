@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Časová osa"
+title:        "Časová osa projektu Dukovany II"
 image:        miscellaneous/jadro-2.jpg
 ---
 
@@ -281,7 +281,7 @@ image:        miscellaneous/jadro-2.jpg
 <p class="timeline-content__date">9. 12. 2020</p>
 <h2 class="timeline-content__title">Stálý výbor pro výstavbu nových jaderných zdrojů v ČR rozhodl, že na jádru musí panovat shoda napříč politickým spektrem, ministr Havlíček navrhl čtyři scénáře</h2>
 <p>Na jednání vládního výboru pro výstavbu nových jaderných zdrojů premiér Andrej Babiš požádal o zpracování „Analýzy jaderných projektů v zahraničí z hledisek úspěšnosti realizace v oblasti HMG a rozpočtů“ a to tak, aby tato Analýza byla podkladem pro jednání předsedů politických stran. To má proběhnout na konci ledna. Ministr průmyslu, obchodu a dopravy Havlíček pak představil čtyři varianty dalšího postupu  tím, že sám se kloní k variantě 3+2.</p>
-<ul>
+<ul style="text-align: left">
     <li>Přizvat do výběrového řízení všechny uchazeče (CGN, EdF, Kepco/KHNP, Rosatom, Westinghouse) s možností vyloučit kteréhokoliv uchazeče v průběhu nebo na konci výběrového řízení při stanovení pořadí.</li>
     <li>Přizvat do výběrového řízení 3 uchazeče (EdF, Kepco/KHNP, Westinghouse).</li>
     <li>Přizvat do výběrového řízení 3 uchazeče (EdF. Kepco/KNHP, Westinghouse) a dalšímuchazečům CGN a Rosatom umožnit účast ve výběrovém řízení jako členové konsorcia, tzv. varianta 3+2.</li>
