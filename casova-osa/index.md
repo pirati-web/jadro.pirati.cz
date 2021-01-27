@@ -294,44 +294,6 @@ image:        miscellaneous/jadro-2.jpg
 </div>
 
 
-<div class="timeline-item">
-<div class="timeline-icon">
-<i class="fa fa-thumbs-up" aria-hidden="true"></i>
-</div>
-<div class="timeline-content timeline-content--right">
-<div class="timeline-content__desc">
-<p class="timeline-content__date">27. 1. 2021</p>
-<h2 class="timeline-content__title">Schůzka tripartity</h2>
-<p>Stát by mohl stavbu nového jaderného zdroje v Dukovanech financovat zcela sám. Je to varianta pro případ, že by zapojení energetické firmy ČEZ do financování bylo příliš drahé. Po jednání tripartity to uvedl ministr průmyslu Karel Havlíček (za ANO). Podle něj by to mohlo snížit výkupní ceny energie.</p>
-<p>Zástupci zaměstnavatelských svazů a odborů po jednání tripartity uvedli, že žádají vládu, aby pokračovala v přípravách tendru. Zároveň nechtějí redukovat počet uchazečů. Podle nich by to výstavbu prodražilo a následně i zvýšilo ceny energie.</p>
-<p><a href="https://www.ceskenoviny.cz/zpravy/tripartita-chce-rychly-tendr-k-dukovanum-a-vsechny-uchazece/1987913" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a></p>
-</div>
-<div class="timeline-content__media">
-<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-2.jpg" alt= ""/> 
-</div>
-</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-icon">
-<i class="fa fa-thumbs-up" aria-hidden="true"></i>
-</div>
-<div class="timeline-content ">
-<div class="timeline-content__desc">
-<p class="timeline-content__date">27. 1. 2021</p>
-<h2 class="timeline-content__title">Schůzka vlády s představiteli politických stran</h2>
-<p>DOPLNÍME</p>
-</div>
-<div class="timeline-content__media">
-<img class="timeline-image" src="https://jadro.pirati.cz/assets/img/miscellaneous/jadro-3.jpg" alt= ""/> 
-</div>
-</div>
-</div>
-
-
-
-
-
 
  
  
