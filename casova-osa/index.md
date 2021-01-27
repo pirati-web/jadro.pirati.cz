@@ -191,7 +191,7 @@ image:        miscellaneous/jadro-2.jpg
 </div>
 <div class="timeline-content ">
 <div class="timeline-content__desc">
-<p class="timeline-content__date">07. 12. 2020</p>
+<p class="timeline-content__date">28. 7. 2020</p>
 <h2 class="timeline-content__title">Stát a investor podepsali smlouvy k novému jadernému zdroji v Dukovanech</h2>
 <p>Ministerstvo průmyslu a obchodu a investor projektu Dukovany II, tedy společnosti ČEZ, a. s. a Elektrárna Dukovany II, a. s., podepsali smlouvy k novému jadernému zdroji. V dané věci stát ponese záruky za politická a legislativní rizika, která by mohla projekt znemožnit. Investor pak má vybrat hlavního dodavatele nového jaderného zdroje v Dukovanech a dojednat s ním smlouvu do konce roku 2024. Také má zajistit potřebná povolení a vše směřovat k tomu, aby byl nový blok elektrárny zprovozněn v roce 2036.</p>
 <p><a href="https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/stat-a-investor-podepsali-smlouvy-k-novemu-jadernemu-zdroji-v-dukovanech--zacina-dalsi-faze-pripravy--255953/" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Čtěte více</a></p>
