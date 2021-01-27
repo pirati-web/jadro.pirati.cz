@@ -1,0 +1,17 @@
+{% capture mainContent %}
+<h1 class="head-alt-md md:head-alt-xl">{{ include.title }}</h1>
+
+<p>Jaderná energie má v energetickém mixu České republiky své pevné místo. Souvisejí technické know-how i věda a výzkum jsou v ČR na velmi vysoké úrovni. Bylo by proto neuvážené tento potenciál nevyužít při přechodu k čisté energetice. Jako Piráti nabízíme jasnou vizi, jak jaderný potenciál v Česku využít. 
+V současné době je v ČR připravován projekt výstavby nového bloku v elektrárně Dukovany. Avšak Piráti považují řešení navrhované Vládou ČR za nedomyšlené. Proto požadujeme, aby se tento projekt pohyboval ve zcela jasných mantinelech.</p>
+
+{% endcapture %}
+
+{% capture subContent %}
+  {% if include.cta %}
+
+  	{% include buttons/icon.html href="/nase-vize/" icon="ico--chevron-right" class="btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" cta="Naše vize" %}
+    {% include buttons/icon.html href="projekt-dukovany-ii" icon="ico--chevron-right" class="btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" cta="Projekt Dukovany II" %}
+  {% endif %}
+{% endcapture %}
+
+{% include hero/advanced.html mainContent=mainContent subContent=subContent img=include.img imgClass="h-32 lg:h-80 lg:m-auto hidden md:block" %}
