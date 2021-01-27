@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Historie v kostce"
-image:        articles/2020/ivan-bartos-pult.jpg
+image:        miscellaneous/shutterstock_1897169671.jpg
 ---
 
 # Na co navazujeme (historie)

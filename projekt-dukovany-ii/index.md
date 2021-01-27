@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Projekt Dukovany II"
-image:        miscellaneous/jadro-1.jpg
+image:        miscellaneous/shutterstock_1311485438.jpg
 ---
 
 Ačkoliv zastáváme názor, že jaderná energie má v energetickém mixu ČR své pevné místo, tak řešení navrhované Vládou ČR je nedomyšlené, postrádá standardní podklady jako vyhodnocení potřebnosti, nákladů a přínosů variant řešení a hrozí, že to dopadne jako u solárních elektráren.
