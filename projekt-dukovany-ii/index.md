@@ -105,4 +105,6 @@ Pokud však bude vláda trvat na výkonovém omezení 1200 MW, pak musí prodlou
 
 ### Věda a výzkum
 
-**Ad 7) Chceme víc podpořit vědu a výzkum**  – ČR má mnohem větší potenciál v jaderné energetice a vědě včetně vývoje vlastních modulárních reaktorů. Chceme proto navýšit rozpočet Technologické agentury ČR a podpořit další vědecká pracoviště, stejně tak musí být představeno konkrétní dlouhodobé schéma financování jaderného výzkumu. Chceme motivovat a podpořit nadějné vědce a projekt v tomto odvětví a proměnit Českou republiku z montovny na mozkovnu.
+**Ad 7) Chceme víc podpořit vědu a výzkum**
+
+ČR má mnohem větší potenciál v jaderné energetice a vědě včetně vývoje vlastních modulárních reaktorů. Chceme proto navýšit rozpočet Technologické agentury ČR a podpořit další vědecká pracoviště, stejně tak musí být představeno konkrétní dlouhodobé schéma financování jaderného výzkumu. Chceme motivovat a podpořit nadějné vědce a projekt v tomto odvětví a proměnit Českou republiku z montovny na mozkovnu.
