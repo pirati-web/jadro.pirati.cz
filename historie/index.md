@@ -1,5 +1,5 @@
 ---
-layout:       post
+layout:       post2
 title:        "České know-how"
 image:        miscellaneous/shutterstock_1897169671.jpg
 ---

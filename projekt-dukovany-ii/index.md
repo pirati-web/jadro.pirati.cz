@@ -1,5 +1,5 @@
 ---
-layout:       post
+layout:       post2
 title:        "Projekt Dukovany II"
 image:        miscellaneous/shutterstock_1311485438.jpg
 ---

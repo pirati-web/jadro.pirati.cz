@@ -1,5 +1,5 @@
 ---
-layout:       post
+layout:       post2
 title:        "Naše vize"
 image:        miscellaneous/shutterstock_1844731684.jpg
 ---

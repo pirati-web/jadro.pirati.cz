@@ -1,5 +1,5 @@
 ---
-layout:       post
+layout:       post2
 title:        "Jaderná energie v ČR a ve světě"
 image:        miscellaneous/jadro-1.jpg
 ---
