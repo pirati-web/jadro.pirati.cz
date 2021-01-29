@@ -294,6 +294,22 @@ image:        miscellaneous/jadro-2.jpg
 </div>
 <div class="timeline-content timeline-content--right">
 <div class="timeline-content__desc">
+<p class="timeline-content__date">26. 1. 2021</p>
+<h2 class="timeline-content__title">Vládní zmocněnec pro jádro říká, že vyloučení Rusů a Číňanů z tendru nezvýší cenu</h2>
+<p>Na dotaz, zda bude mít vyloučení uchazečů z Ruska a Číny zásadní vliv na cenu, který mu položila opoziční poslankyně Helena Langšádlová (TOP 09), odpověděl, že ne. "Na cenu projektu má zásadní vliv dostatek času na předložení závazných nabídek a dále celková organizace a kvalita přípravy a provedení výběrového řízení podle mezinárodně uznávaných a standardně aplikovaných postupů. Nedostatek časového prostoru povede, s ohledem na potřebu vytvoření si značných rezerv na straně dodavatele, k předložení závazných nabídek navýšených o desítky procent. Celkovou cenu projektu také zásadním způsobem ovlivňují náklady financování, které jsou na počtu účastníků nezávislé," napsal Jaroslav Míl.</p>
+<p><a href="https://zpravy.aktualne.cz/domaci/zmocnenec-pro-jadro-vylouceni-rusu-a-cinanu-nezvysi-cenu-ten/r~7ac8c7be601111ebb115ac1f6b220ee8/" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Aktuálně</a></p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content ">
+<div class="timeline-content__desc">
 <p class="timeline-content__date">27. 1. 2021</p>
 <h2 class="timeline-content__title">Schůzka tripartity</h2>
 <p>Stát by mohl stavbu nového jaderného zdroje v Dukovanech financovat zcela sám. Je to varianta pro případ, že by zapojení energetické firmy ČEZ do financování bylo příliš drahé. Po jednání tripartity to uvedl ministr průmyslu Karel Havlíček (za ANO). Podle něj by to mohlo snížit výkupní ceny energie.</p>
@@ -304,8 +320,6 @@ image:        miscellaneous/jadro-2.jpg
 </div>
 </div>
 </div>
-
-
  
 
 </div>
