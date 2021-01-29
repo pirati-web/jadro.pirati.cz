@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Historie v kostce"
+title:        "České know-how"
 image:        miscellaneous/shutterstock_1897169671.jpg
 ---
 
