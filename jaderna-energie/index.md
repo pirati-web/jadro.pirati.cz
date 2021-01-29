@@ -18,14 +18,14 @@ V celosvětovém energetickém a elektrickém mixu stále velký podíl produkce
 
 ![](https://lh3.googleusercontent.com/eeEyehaVe_W9qSz6Ph30_qEER88W-DyA0qn9oHScsbbO4Gq_SsV3MmE-ENgNFy1gMnSLh1mqELJisOkzP5HzqPKtkMnVZMBoJmh9gnisZ8KmxVoMCU3uRT9nxqlB0Z5sf-03BszX)
 
-zdroj https://ourworldindata.org/electricity-mix
+[Zdroj](https://ourworldindata.org/electricity-mix)
 
 
 V současné době je v provozu asi 440 jaderných reaktorů ve 30 zemích světa, Převážná část reaktorů se nachází v Evropě a v Severní Americe. Přesné počty reaktorů a instalovaného výkonu naleznete zde (https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx)
 
 ![](https://lh5.googleusercontent.com/Rf4unG0nlNyDobiXfr3NTp0n6K0JJoKNtOIhrN9lBdfGUt_tWOy6GRU8midMmKtCo4HSVMQynBlvntEKiRTqNarDWj9VSQpkVcFdmt36zzLROt2ibUPPJfiEB5R8Pfv6HtBmH6-D)
 
-zdroj https://www.iaea.org/newscenter/news/iaea-releases-2019-data-on-nuclear-power-plants-operating-experience
+[Zdroj](https://www.iaea.org/newscenter/news/iaea-releases-2019-data-on-nuclear-power-plants-operating-experience)
 
 V současné době probíhá výstavba nebo je v přípravě kolem 100 nových jaderných bloků s instalovaným výkonem přibližně 110 000 MWe a více než 300 nových jaderných zdrojů se plánuje. Většina nových jaderných zdrojů bude v asijských zemích, které se potýkají s výrazným nárůstem spotřeby elektrické energie kvůli prudkému ekonomickému vývoji. Seznam reaktorů ve výstavbě naleznete zde([https://www.world-nuclear.org/information-library/current-and-future-generation/plans-for-new-reactors-worldwide.aspx#ECSArticleLink1](https://www.world-nuclear.org/information-library/current-and-future-generation/plans-for-new-reactors-worldwide.aspx#ECSArticleLink1)).
 
@@ -47,4 +47,4 @@ Ve všech případech se jedná o tlakovodní reaktory využívající ruskou te
 
 ![](https://lh3.googleusercontent.com/aPgqY3fLGkO8ZMo-V9YJQvAIjKB2YKh0mZPr9hdQp0LFyiO8PypcUED5puTN9iQF99g9ZeHz6pO7iwGaGDAXsAfDRVMpdgZkNgP8Yl3RjN-1k_JoPU6ztJxRqKFDIDh8kEkQvljE)
 
-zdroj https://www.eru.cz/documents/10540/5381883/Rocni_zprava_provoz_ES_2019.pdf/debe8a88-e780-4c44-8336-a0b7bbd189bc
+[Zdroj](https://www.eru.cz/documents/10540/5381883/Rocni_zprava_provoz_ES_2019.pdf/debe8a88-e780-4c44-8336-a0b7bbd189bc)
