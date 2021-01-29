@@ -20,8 +20,8 @@ Piráti však varují před megalomanským prosazování jádra za každou cenu.
 
 **Obecná východiska** Pirátů k dalšímu rozvoji jaderné energetiky a případně i k výstavbě nového jaderného zdroje jsou následující body:
 
-1.  Podpora a rozvoj znalostní ekonomiky, vědy a výzkumu.
-2.  Zachování a rozvoj souvisejícího průmyslu.
+> 1.  Podpora a rozvoj znalostní ekonomiky, vědy a výzkumu.
+> 2.  Zachování a rozvoj souvisejícího průmyslu.
 
 
 ## Znalostní ekonomika – věda a výzkum, průmysl
