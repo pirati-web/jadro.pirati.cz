@@ -320,6 +320,25 @@ image:        miscellaneous/jadro-2.jpg
 </div>
 </div>
 </div>
- 
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content timeline-content--right">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">27. 1. 2021</p>
+<h2 class="timeline-content__title">Schůzka vlády s představiteli politických stran</h2>
+<p>Schůzka představitelů politických stran a zástupců vlády nepřinesla definitivní politickou shodu na tendru k projektu Dukovany II. Posun nastal ohledně účasti rizikových uchazečů - premiér Andrej Babiš řekl, že vláda v tendru na nový blok jaderné elektrárny Dukovany nepočítá s účastí Číny, ale Rusko jako riziko nevnímá.</p>
+<p><a href="https://zpravy.aktualne.cz/domaci/dukovany/r~01d6bd38608f11eba25cac1f6b220ee8/" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Aktuálně</a>,
+<a href="https://www.respekt.cz/kontext/babis-chce-levnou-elektrinu-ale-dukovany-ji-prodrazi" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Respekt</a>
+</p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
+
+, Respekt 
 
 </div>
