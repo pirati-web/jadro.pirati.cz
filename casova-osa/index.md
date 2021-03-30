@@ -406,7 +406,7 @@ image:        miscellaneous/jadro-2.jpg
 <p>Andrej Babiš svolal k otázce dukovanského tendru Bezpečnostní radu státu, otázku dle plánu následně projedná i vláda. Rozhodl tak poté, co byl Karel Havlíček obviněn z toho, že svými kroky obešel vládu i bezpečnostní složky. Opozice také vyzvala k rezignaci ministra Havlíčka.
  
 ČTK, </p>
-<p><a href="https://www.ceskenoviny.cz/zpravy/babis-krok-k-dostavbe-dukovan-projedna-bezpecnostni-rada-i-vlada/2013783" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a>
+<p><a href="https://www.ceskenoviny.cz/zpravy/babis-krok-k-dostavbe-dukovan-projedna-bezpecnostni-rada-i-vlada/2013783" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a>,
 <a href="https://www.irozhlas.cz/zpravy-domov/karel-havlicek-dukovany-dostavba-tendr-jaderna-elektrarna-ano-opozice_2103261445_gak" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">iRozhlas</a>  
 </p>
 </div>
