@@ -425,7 +425,8 @@ image:        miscellaneous/jadro-2.jpg
 <h2 class="timeline-content__title">Bezpečnostní dotazník pro uchazeče připraví ministerstvo vnitra, vláda odvolala vládního zmocněnce Míla</h2>
 <p>Skupina expertů vedená ministerstvem vnitra připraví a následně vyhodnotí bezpečnostní dotazníky, které budou odeslány potenciálním uchazečům v dukovanském tendru. Pokud ti dotazníky převezmou, budou se muset zavázat, že tímto krokem nevznikají žádné nároky vůči ČR.
 Vláda také na návrh Karla Havlíčka odvolala vládního zmocněnce pro jadernou energetiku Jaroslava Míla, který postup ministerstva průmyslu a obchodu kritizoval a zastával názor, že by se tendru neměly účastnit firmy z Ruska a Číny. </p>
-<p><a href="https://www.ceskenoviny.cz/zpravy/tendr-na-dukovany-vypise-az-pristi-vlada-bude-bez-cinanu-uvedlo-mpo/2013420" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a>, <a href="https://www.ceskenoviny.cz/zpravy/tendr-na-dukovany-vypise-az-pristi-vlada-bude-bez-cinanu-uvedlo-mpo/2013420" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">iRozhlas</a></p>
+<p><a href="https://www.ceskenoviny.cz/zpravy/bezpecnostni-dotaznik-k-dukovanum-pripravi-skupina-zastresena-mv/2014587" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a>,
+<a href="https://www.irozhlas.cz/zpravy-domov/jaroslav-mil-odvolani-vladni-zmocnenec-pro-jadro-havlicek-elektrarna-dukovany_2103291656_aur" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">iRozhlas</a></p>
 </div>
 <div class="timeline-content__media">
 </div>
