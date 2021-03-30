@@ -339,6 +339,84 @@ image:        miscellaneous/jadro-2.jpg
 </div>
 </div>
 
-, Respekt 
+
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content ">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">26. 2. 2021</p>
+<h2 class="timeline-content__title">Interní průzkum ministerstva zahraničí: Češi nechtějí, aby nový blok Dukovan stavěli Rusové</h2>
+<p>Podle interního průzkumu, který si nechalo zpracovat ministerstvo zahraničních věcí, se 72 procent Čechů vyjádřilo proti svěření stavby nového bloku v Dukovanech Rusku. 78 procent dotazovaných pak považovalo závislost na dovozu paliv a surovin z Ruska do ČR za hrozbu.</p>
+<p><a href="https://zpravy.aktualne.cz/domaci/pruzkum-cesi-nechteji-aby-novy-blok-dukovan-staveli-rusove/r~e1092a48776b11eb8e470cc47ab5f122/?utm_source=newsletter&utm_medium=email&utm_campaign=dukovany_pod_drobnohledem_unor_2021&utm_term=2021-03-01" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">Aktuálně</a></p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
+
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content timeline-content--right">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">8. 3. 2021</p>
+<h2 class="timeline-content__title">Schůzka vlády s představiteli politických stran</h2>
+<p>
+ČEZ dostal povolení pro nový jaderný zdroj v Dukovanech
+Společnost Elektrárna Dukovany II dostala od Státního úřadu pro jadernou bezpečnost povolení k tomu, aby v Dukovanech umístila nový jaderný zdroj. Příprava a zpracování dokumentace pro licenční řízení trvala pět let, správní řízení trvalo dvanáct měsíců.</p>
+<p><a href="https://oenergetice.cz/jaderne-elektrarny/cez-dostal-od-sujb-povoleni-pro-novy-jaderny-zdroj-v-dukovanech" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">oenergetice.cz</a>
+</p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
+
+
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content ">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">25. 3. 2021</p>
+<h2 class="timeline-content__title">Ministr Havlíček chtěl oslovit uchazeče ze čtyř zemí</h2>
+<p>Ministr průmyslu a obchodu Havlíček plánoval dát pokyn společnosti ČEZ, aby oslovila uchazeče ze čtyř zemí (USA, Francie, Jižní Korea a Rusko), poskytla jim zadávací dokumentaci k tendru a vyžádala si od nich informace o tom, jak by naplňovali bezpečnostní požadavky na dodavatele. Z harmonogramu jeho plánu vyplynulo, že definitivně o tendru rozhodne až vláda sestavená po volbách v říjnu 2021.</p>
+<p><a href="https://www.ceskenoviny.cz/zpravy/tendr-na-dukovany-vypise-az-pristi-vlada-bude-bez-cinanu-uvedlo-mpo/2013420" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a></p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
+
+
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content timeline-content--right">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">26. 3. 2021</p>
+<h2 class="timeline-content__title">Po odporu opozice i expertů vláda odložila odeslání dokumentace uchazečům</h2>
+<p>Andrej Babiš svolal k otázce dukovanského tendru Bezpečnostní radu státu, otázku dle plánu následně projedná i vláda. Rozhodl tak poté, co byl Karel Havlíček obviněn z toho, že svými kroky obešel vládu i bezpečnostní složky. Opozice také vyzvala k rezignaci ministra Havlíčka.
+ 
+ČTK, </p>
+<p><a href="https://www.ceskenoviny.cz/zpravy/babis-krok-k-dostavbe-dukovan-projedna-bezpecnostni-rada-i-vlada/2013783" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a>
+<a href="https://www.irozhlas.cz/zpravy-domov/karel-havlicek-dukovany-dostavba-tendr-jaderna-elektrarna-ano-opozice_2103261445_gak" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">iRozhlas</a>  
+</p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
+
+
 
 </div>
