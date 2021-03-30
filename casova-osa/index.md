@@ -365,10 +365,8 @@ image:        miscellaneous/jadro-2.jpg
 <div class="timeline-content timeline-content--right">
 <div class="timeline-content__desc">
 <p class="timeline-content__date">8. 3. 2021</p>
-<h2 class="timeline-content__title">Schůzka vlády s představiteli politických stran</h2>
-<p>
-ČEZ dostal povolení pro nový jaderný zdroj v Dukovanech
-Společnost Elektrárna Dukovany II dostala od Státního úřadu pro jadernou bezpečnost povolení k tomu, aby v Dukovanech umístila nový jaderný zdroj. Příprava a zpracování dokumentace pro licenční řízení trvala pět let, správní řízení trvalo dvanáct měsíců.</p>
+<h2 class="timeline-content__title">ČEZ dostal povolení pro nový jaderný zdroj v Dukovanech</h2>
+<p>Společnost Elektrárna Dukovany II dostala od Státního úřadu pro jadernou bezpečnost povolení k tomu, aby v Dukovanech umístila nový jaderný zdroj. Příprava a zpracování dokumentace pro licenční řízení trvala pět let, správní řízení trvalo dvanáct měsíců.</p>
 <p><a href="https://oenergetice.cz/jaderne-elektrarny/cez-dostal-od-sujb-povoleni-pro-novy-jaderny-zdroj-v-dukovanech" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">oenergetice.cz</a>
 </p>
 </div>
@@ -417,6 +415,22 @@ Společnost Elektrárna Dukovany II dostala od Státního úřadu pro jadernou b
 </div>
 </div>
 
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
+<div class="timeline-content ">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">29. 3. 2021</p>
+<h2 class="timeline-content__title">Bezpečnostní dotazník pro uchazeče připraví ministerstvo vnitra, vláda odvolala vládního zmocněnce Míla</h2>
+<p>Skupina expertů vedená ministerstvem vnitra připraví a následně vyhodnotí bezpečnostní dotazníky, které budou odeslány potenciálním uchazečům v dukovanském tendru. Pokud ti dotazníky převezmou, budou se muset zavázat, že tímto krokem nevznikají žádné nároky vůči ČR.
+Vláda také na návrh Karla Havlíčka odvolala vládního zmocněnce pro jadernou energetiku Jaroslava Míla, který postup ministerstva průmyslu a obchodu kritizoval a zastával názor, že by se tendru neměly účastnit firmy z Ruska a Číny. </p>
+<p><a href="https://www.ceskenoviny.cz/zpravy/tendr-na-dukovany-vypise-az-pristi-vlada-bude-bez-cinanu-uvedlo-mpo/2013420" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a>, <a href="https://www.ceskenoviny.cz/zpravy/tendr-na-dukovany-vypise-az-pristi-vlada-bude-bez-cinanu-uvedlo-mpo/2013420" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">iRozhlas</a></p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
 
 
 </div>
