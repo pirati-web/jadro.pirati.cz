@@ -170,6 +170,24 @@ image:        miscellaneous/jadro-2.jpg
 <div class="timeline-icon">
 <i class="fa fa-thumbs-up" aria-hidden="true"></i>
 </div>
+<div class="timeline-content timeline-content--right">
+<div class="timeline-content__desc">
+<p class="timeline-content__date">18. 4. 2021</p>
+<h2 class="timeline-content__title">Po nových odhalením v kauze Vrbětice vláda prohlašuje, že Rosatom se případného tendru nebude účastnit</h2>
+<p>Podle ministra průmyslu a obchodu a ministra dopravy Karla Havlíčka je “prakticky vyloučené”, aby se ruský Rosatom účastnil tendru na dostavbu JEDU. Že by se Rosatom neměl tendru účastnit si myslí i premiér Andrej Babiš. Vicepremiér Jan Hamáček dodal, že by se firma neměla účastnit ani jako člen konsorcia. </p>
+<p><a href="https://ct24.ceskatelevize.cz/domaci/3299707-ruske-firmy-se-podle-hamacka-nemely-ucastnit-dostavby-dukovan-rosatom-je-takrka" class="button" data-open="33889" aria-controls="33889" aria-haspopup="true" tabindex="0">ČTK</a>  
+</p>
+</div>
+<div class="timeline-content__media">
+</div>
+</div>
+</div>
+
+
+<div class="timeline-item">
+<div class="timeline-icon">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+</div>
 <div class="timeline-content ">
 <div class="timeline-content__desc">
 <p class="timeline-content__date">29. 3. 2021</p>
